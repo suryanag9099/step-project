@@ -60,9 +60,8 @@ This is a simple **React Step Tracker** application that helps users navigate th
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-## 📜 License
-This project is licensed under the **MIT License**.
+
 
 ---
-Made with ❤️ by [Your Name](https://github.com/suryanag9099)
+Made with ❤️ by [/suryanag9099](https://github.com/suryanag9099)
 
